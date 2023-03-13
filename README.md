@@ -20,7 +20,7 @@ The project requires the following components:
 
 Here and example of Arduino with PIR motion sensor.
 
-![This is an image]()
+![This is an image](PIR_sensor_Arduino.JPG)
 
 The PIR motion sensor detects motion within its range and sends a signal to the Arduino board. The Arduino board processes the signal and sends a notification message to the LINE.
 
